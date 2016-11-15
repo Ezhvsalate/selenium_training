@@ -1,2 +1,2 @@
 # selenium_training
-Домашние задания по курсу selenium web driver
+Репозиторий для размещения домашних заданий по курсу selenium web driver
