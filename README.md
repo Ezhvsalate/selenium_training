@@ -1,2 +1,2 @@
 # selenium_training
-Репозиторий для размещения домашних заданий по курсу selenium web driver
+Training tasks for course: http://software-testing.ru/edu/1-schedule/242-selenium-webdriver
